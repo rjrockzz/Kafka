@@ -1,5 +1,5 @@
 # Kafka installation
-To install kafka in windows we need to download the Binary files from Apache open source foundation. [Link](https://www.confluent.io/download)
+To install kafka in windows download the Binary files from Apache open source foundation. [Link](https://www.confluent.io/download)
 
 Steps :
 1. After downloading binary files of kafka. extract them all into your C:/ drive
